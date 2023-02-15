@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **TypeScript and NodeJS**
 
-- 💬 Ask me about **React, TypeScript, NextJS**
-
-- 📫 How to reach me **kauanneves1008@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kauan-coli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauan-coli" height="30" width="40" /></a>
