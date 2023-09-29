@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauan Coli</h1>
-<h3 align="center">😁 I'am a Brazilian FrontEnd Developer Jr</h3>
+<h3 align="center">😁 I'am a Brazilian FrontEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAyZTg4YzQ1ZmZhMTEzMGMyN2NiNTBlYzQ0MTk3YWUzYTFhZmE3NiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauancoli&label=Profile%20views&color=0e75b6&style=flat" alt="kauancoli" /> </p>
